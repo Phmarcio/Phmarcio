@@ -2,7 +2,7 @@
 ---
 
 - 🖥️ Atuando como analista de redes 
-- 👀 Estudando sobre containers, Devops e SRE
+- 👀 Estudante e candidato a Devops / SRE
 - 🎓 Cursando segurança da informação
 - 💼 Experiência com rotinas de ISP, redes de computadores e FTTH, monitoração (Prometeus, Zabbix, Grafana), Linux, BPNM, Netbox e
 Python
