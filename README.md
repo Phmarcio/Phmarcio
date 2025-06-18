@@ -2,10 +2,9 @@
 ---
 
 - 🖥️ Atuando como analista de redes 
-- 👀 Estudante e candidato a Devops
-- 🎓 Cursando segurança da informação
-- 💼 Experiência com rotinas de ISP, redes de computadores e FTTH, monitoração (Prometeus, Zabbix, Grafana, Loki), Linux, BPNM, Netbox e
-Python
+- 👀 Estudante e candidato a SecOps
+- 🎓 Graduado em segurança da informação
+- 💼 Experiência com rotinas de ISP, redes de computadores e FTTH, monitoração (Prometeus, Zabbix, Grafana, Loki), Linux, BPNM, Netbox e Python
 - 🎮 Gamer nas horas vagas
 - 🪛 Hobbysta em programação embarcada e eletrônica
 
